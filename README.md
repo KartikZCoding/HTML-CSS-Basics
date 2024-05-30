@@ -5,7 +5,8 @@
 <html>
 
 <head>
-    <title>My First Web Page</title>
+    <title>JOb's OP</title>
+    <link rel="icon" href="./Images/job-logo.png" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -13,33 +14,26 @@
     <!-- Header -->
     <header>
         <div id="navbar">
-            <img src="/Images/logo-black.png" alt="logo" height="50px">
-            <span id="logo-name">Kartik</span>
+            <img src="./Images/job-logo.png" alt="logo" height="40px">
+            <span id="logo-name">Job's Op</span>
         </div>
     </header>
 
     <!-- Banner Image -->
     <div id="banner-image">
-        <img id="banner" src="/Images/banner.jpg" alt="Banner Image" height="360">
+        <img id="banner" src="./Images/banner.jpg" alt="Banner Image" height="360">
     </div>
 
     <!-- About -->
     <h1 id="about-head">
-        About Kartik
+        About Job's
     </h1>
     <div id="about">
         <div id="description">
             <p style="margin-top: 0;">
-                Lorem ipsum dolor sit amet. ipsum dolor sit amet. ipsum
-                dolor sit
-                amet,
-                consectetur adipisicing elit. Iste recusandae eius cumque
-                sit at
-                voluptatibus a itaque ipsa sint dolorum, culpa laborum
-                doloremque
-                error
-                autem.
-            </p>
+                Jobs are evolving with technology and globalization, creating diverseopportunities in remote work, gig
+                economy, and automation. Continuous learning, inclusivity, and jobsatisfaction are crucial for thriving
+                in the dynamic labor market. Adaptability is key.</p>
             <p>
                 We also offer 2 industry-focused bootcamp:
             <ol>
@@ -53,7 +47,7 @@
             </p>
         </div>
         <div id="team">
-            <img id="team-image" src="/Images/team.jpg" alt="Team Working Image">
+            <img id="team-image" src="./Images/team.jpg" alt="Team Working Image">
         </div>
     </div>
 
@@ -90,7 +84,7 @@
                 <a target="_blank" href="#">Youtube</a>
             </li>
         </ul>
-        <span id="copyright">© 2024, Kartik</span>
+        <span id="copyright">© 2024, Job's Op</span>
     </div>
 
 </body>

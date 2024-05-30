@@ -193,3 +193,6 @@ h2 {
 }
 ```
 ### Here's all Images
+<a href="https://github.com/KartikZCoding/HTML-CSS-Basics/tree/9b038920de42b6d8702c11aaa62836f33de917ba/Images">
+    <img src="https://github.com/KartikZCoding/Other-Files/blob/29c62f9aa8abe0470d9e2d75c809940a786cf035/image-logo.png" alt="Image Icon" height="90px">
+</a>

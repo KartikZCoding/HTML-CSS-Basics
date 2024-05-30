@@ -107,7 +107,8 @@ a {
   display: flex;
   align-items: center;
   max-width: 900px;
-  margin: 0 auto;
+  margin: 5px auto;
+  gap: 8px;
 }
 #logo-name {
   font-weight: bold;
@@ -128,7 +129,6 @@ a {
 /* About */
 #about-head {
   text-align: center;
-  color: #cd5e10;
 }
 #about {
   display: flex;

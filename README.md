@@ -1,4 +1,8 @@
 # Create Simple Webpage using HTML & CSS
+
+### Here's Wireframe of WebPage
+![Frontend Web Development.png](https://github.com/KartikZCoding/HTML-CSS-Basics/blob/ecf0014fcddecbdf34e7fb636e32d701fdf999d8/Frontend%20Web%20Development.png)
+
 ### HTML Code
 ```HTML
 <!DOCTYPE html>
